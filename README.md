@@ -1,2 +1,2 @@
 # Curso de Programação
-Arquivos do Curso StartSe HTML|CSS
+Arquivos de rpogramação e exercícios do Curso StartSe HTML|CSS
